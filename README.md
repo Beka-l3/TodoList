@@ -1,10 +1,10 @@
 # TodoList
 
-![alt text](http://screenshots/EmptyList.png)
-![alt text](http://screenshots/ItemList2.png)
-![alt text](http://screenshots/NewItem1.png)
-![alt text](http://screenshots/NewItem2.png)
-![alt text](http://screenshots/NewItem3.png)
-![alt text](http://screenshots/LargeText2.png)
-![alt text](http://screenshots/SwipeToDone.png)
-![alt text](http://screenshots/SwipeToDelete.png)
+![alt text](http://Screenshots/EmptyList.png)
+![alt text](http://Screenshots/ItemList2.png)
+![alt text](http://Screenshots/NewItem1.png)
+![alt text](http://Screenshots/NewItem2.png)
+![alt text](http://Screenshots/NewItem3.png)
+![alt text](http://Screenshots/LargeText2.png)
+![alt text](http://Screenshots/SwipeToDone.png)
+![alt text](http://Screenshots/SwipeToDelete.png)
